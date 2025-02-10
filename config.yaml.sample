@@ -1,0 +1,12 @@
+opencti:
+  url: ''
+  token: ''
+
+connector:
+  id: ''
+  name: ''
+  type: ''
+  scope: ''
+  log_level: ''
+  duration_period: '' # Interval given for scheduler process in ISO-8601 format
+
